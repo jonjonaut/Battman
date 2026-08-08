@@ -1,4 +1,4 @@
-# Battman
+# Battmanch
 Strayers' modern battery manager for their good old iOS devices.
 
 ### 🌍
